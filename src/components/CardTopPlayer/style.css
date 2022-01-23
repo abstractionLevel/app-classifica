@@ -1,0 +1,36 @@
+.border {
+    border-color: #FFA500 ;
+}
+
+.rating {
+    pointer-events: none;   
+}
+
+
+.label-1 {
+    color: white;
+    font-weight: 700;
+}
+
+.card {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #31316C!important;
+    border: solid 1px #FFA500!important;
+}
+
+.label-2 {
+    color: #FFA500;
+    font-weight: 500;
+}
+
+svg {
+    display: inline!important;
+    color: gray;
+}
+
+
+p {
+    color: red;
+}
